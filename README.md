@@ -10,12 +10,6 @@ Welcome to Empower Your Future: Let's Invest Together! This repository showcases
 
 <br>[Frontend Repositorie](https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Frontend-)
 
-<!-- <a href="https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Backend" target="Backend">
-</a>
-
-<a href="https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Frontend-" target="Frontend">
-</a> -->
-
 ## Overview
 
 • Developed a full-stack web application using React.js for the frontend and Node.js for the backend, facilitating seamless
