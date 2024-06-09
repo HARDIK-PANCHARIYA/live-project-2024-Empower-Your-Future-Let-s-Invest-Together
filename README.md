@@ -6,16 +6,16 @@ Welcome to Empower Your Future: Let's Invest Together! This repository showcases
   <img src="https://img.shields.io/badge/Visit%20Our%20Website-Click%20Here-blue?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="Visit Website" />
 </a>
 
-<a href="https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Backend" target="_blank">
+<a href="https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Backend" target="Backend">
 </a>
 
-<a href="https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Frontend-" target="_blank">
+<a href="https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Frontend-" target="Frontend">
 </a>
 
 ## Overview
 
 • Developed a full-stack web application using React.js for the frontend and Node.js for the backend, facilitating seamless
-backend communication with Axios.
+backend communication with Axios.<br>
 • Mastered HTML, CSS, and JavaScript, specializing in React.js, and proficiently managed data operations with
-MongoDB.
-• Expanded skills in cloud database deployment and implemented Google sign-in for heightened security
+MongoDB.<br>
+• Expanded skills in cloud database deployment and implemented Google sign-in for heightened security<br>
