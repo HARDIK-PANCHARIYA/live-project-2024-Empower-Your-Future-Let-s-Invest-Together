@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Backend
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Frontend-
