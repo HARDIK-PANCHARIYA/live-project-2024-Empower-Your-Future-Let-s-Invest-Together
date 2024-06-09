@@ -7,8 +7,7 @@ Welcome to Empower Your Future: Let's Invest Together! This repository showcases
 </a><br>
 
 <a href="https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Backend" target="_blank">
-<img src="https://img.shields.io/badge/GitHub%20Repository-Click%20Here-lightgrey?style=for-the-badge&logo=github&logoColor=white
-" height="35" alt="" />
+<img src="https://img.shields.io/badge/GitHub%20Repository-Click%20Here-lightgrey?style=for-the-badge&logo=github&logoColor=white" height="35" alt="" />
 </a>[Backend Repositorie]
 
 <br>[Frontend Repositorie](https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Frontend-)
