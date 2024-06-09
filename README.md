@@ -4,13 +4,16 @@ Welcome to Empower Your Future: Let's Invest Together! This repository showcases
 
 <a href="https://empoweryourfuture-has.web.app/" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Our%20Website-Click%20Here-blue?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="Visit Website" />
-</a><br>
+</a>
 
-<a href="https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Backend" target="_blank">
-<img src="https://img.shields.io/badge/GitHub%20Repository-Click%20Here-lightgrey?style=for-the-badge&logo=github&logoColor=white" height="35" alt="" />
-</a>[Backend Repositorie]
+<!-- <a href="https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Backend">
+<img src="https://img.shields.io/badge/GitHub%20Repository-Click%20Here-lightgrey?style=for-the-badge&logo=github&logoColor=white
+" height="35" alt="Visit Website" />
+</a> -->
 
-<br>[Frontend Repositorie](https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Frontend-)
+<br>[Backend Repository](https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Backend)
+
+<br>[Frontend Repository](https://github.com/HARDIK-PANCHARIYA/Empower-Your-Future-Let-s-Invest-Together-Frontend-)
 
 ## Overview
 
